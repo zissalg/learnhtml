@@ -1,0 +1,20 @@
+@charset "utf-8";
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+	color: #ff0000;
+	border: none;
+}
+
+body {
+	color: #ff0000;
+}
+
+h1 {
+	border: 1px solid red;
+}
+
+body.wtf {
+	color: #00FF00;
+}
